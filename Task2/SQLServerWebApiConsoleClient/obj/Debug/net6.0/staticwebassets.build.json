@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "PYUVpIcqeeP2RPyQ6bZlKjomdx+g7Vlee5U+Fj0cTog=",
+  "Source": "SQLServerWebApiConsoleClient",
+  "BasePath": "_content/SQLServerWebApiConsoleClient",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
