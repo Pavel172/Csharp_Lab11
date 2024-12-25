@@ -1,0 +1,36 @@
+F:\old pc\my docs\Lec C#\#11\Code\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\WebAPIClient.exe
+F:\old pc\my docs\Lec C#\#11\Code\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\WebAPIClient.deps.json
+F:\old pc\my docs\Lec C#\#11\Code\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\WebAPIClient.runtimeconfig.json
+F:\old pc\my docs\Lec C#\#11\Code\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\WebAPIClient.dll
+F:\old pc\my docs\Lec C#\#11\Code\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\WebAPIClient.pdb
+F:\old pc\my docs\Lec C#\#11\Code\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\WebAPIModels.dll
+F:\old pc\my docs\Lec C#\#11\Code\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\WebAPIModels.pdb
+F:\old pc\my docs\Lec C#\#11\Code\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\WebAPIClient.csproj.AssemblyReference.cache
+F:\old pc\my docs\Lec C#\#11\Code\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\WebAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+F:\old pc\my docs\Lec C#\#11\Code\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\WebAPIClient.AssemblyInfoInputs.cache
+F:\old pc\my docs\Lec C#\#11\Code\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\WebAPIClient.AssemblyInfo.cs
+F:\old pc\my docs\Lec C#\#11\Code\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\WebAPIClient.csproj.CoreCompileInputs.cache
+F:\old pc\my docs\Lec C#\#11\Code\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\WebAPIClient.csproj.CopyComplete
+F:\old pc\my docs\Lec C#\#11\Code\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\WebAPIClient.dll
+F:\old pc\my docs\Lec C#\#11\Code\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\refint\WebAPIClient.dll
+F:\old pc\my docs\Lec C#\#11\Code\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\WebAPIClient.pdb
+F:\old pc\my docs\Lec C#\#11\Code\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\WebAPIClient.genruntimeconfig.cache
+F:\old pc\my docs\Lec C#\#11\Code\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\ref\WebAPIClient.dll
+D:\My projects\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\WebAPIClient.exe
+D:\My projects\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\WebAPIClient.deps.json
+D:\My projects\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\WebAPIClient.runtimeconfig.json
+D:\My projects\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\WebAPIClient.dll
+D:\My projects\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\WebAPIClient.pdb
+D:\My projects\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\WebAPIModels.dll
+D:\My projects\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\WebAPIModels.pdb
+D:\My projects\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\WebAPIClient.csproj.AssemblyReference.cache
+D:\My projects\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\WebAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\My projects\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\WebAPIClient.AssemblyInfoInputs.cache
+D:\My projects\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\WebAPIClient.AssemblyInfo.cs
+D:\My projects\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\WebAPIClient.csproj.CoreCompileInputs.cache
+D:\My projects\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\WebAPICl.BE3BF287.Up2Date
+D:\My projects\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\WebAPIClient.dll
+D:\My projects\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\refint\WebAPIClient.dll
+D:\My projects\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\WebAPIClient.pdb
+D:\My projects\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\WebAPIClient.genruntimeconfig.cache
+D:\My projects\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\ref\WebAPIClient.dll
